@@ -10,5 +10,5 @@ ordereddict==1.1
 PyMySQL==0.7.11
 python-wordpress-xmlrpc==2.3
 requests==2.18.4
-urllib3==1.22
+urllib3==1.24.2
 wordpress-api==1.2.4
